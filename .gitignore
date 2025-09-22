@@ -1,0 +1,5 @@
+slurm-*
+*.dcd
+*.pkl
+*.err
+*.out
